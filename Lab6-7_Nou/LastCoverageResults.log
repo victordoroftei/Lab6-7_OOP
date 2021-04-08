@@ -1,0 +1,21 @@
+[2021-04-06 10:55:26] [info] Start Program:
+Path:"E:\\__Teme\\Object-Oriented Programming (OOP)\\Lab6-7_Nou\\Debug\\Lab6-7_Nou.exe"
+Arguments:
+Working directory: "E:\\__Teme\\Object-Oriented Programming (OOP)\\Lab6-7_Nou\\Lab6-7_Nou\\"
+Modules: Selected: E:\__Teme\Object-Oriented Programming (OOP)\Lab6-7_Nou\Debug\Lab6-7_Nou.exe Excluded: 
+Sources: Selected: E:\__Teme\Object-Oriented Programming (OOP)\Lab6-7_Nou\Lab6-7_Nou Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: binary C:\Users\Vic\AppData\Local\Temp\fbqw5zru.kbv 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2021-04-06 10:55:26] [info] Module: E:\__Teme\Object-Oriented Programming (OOP)\Lab6-7_Nou\Debug\Lab6-7_Nou.exe is selected because it matches selected pattern: E:\__Teme\Object-Oriented Programming (OOP)\Lab6-7_Nou\Debug\Lab6-7_Nou.exe
+[2021-04-06 10:55:26] [info] ----------------------------------------------------
+[2021-04-06 10:55:26] [info] Coverage binary generated in file: C:\Users\Vic\AppData\Local\Temp\fbqw5zru.kbv
+[2021-04-06 10:55:26] [info] ----------------------------------------------------

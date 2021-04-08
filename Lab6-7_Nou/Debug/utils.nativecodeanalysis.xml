@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>E:\__Teme\Object-Oriented Programming (OOP)\Lab6-7_Nou\Lab6-7_Nou\</FILEPATH>
+      <FILENAME>utils.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>26440</DEFECTCODE>
+    <DESCRIPTION>Function 'cmpString' can be declared 'noexcept' (f.6).</DESCRIPTION>
+    <FUNCTION>cmpString</FUNCTION>
+    <DECORATED>?cmpString@@YA?BHABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0_N@Z</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>E:\__Teme\Object-Oriented Programming (OOP)\Lab6-7_Nou\Lab6-7_Nou\</FILEPATH>
+      <FILENAME>utils.cpp</FILENAME>
+      <LINE>26</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>26440</DEFECTCODE>
+    <DESCRIPTION>Function 'cmpInt' can be declared 'noexcept' (f.6).</DESCRIPTION>
+    <FUNCTION>cmpInt</FUNCTION>
+    <DECORATED>?cmpInt@@YA?BHHH_N@Z</DECORATED>
+    <FUNCLINE>26</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>E:\__Teme\Object-Oriented Programming (OOP)\Lab6-7_Nou\Lab6-7_Nou\</FILEPATH>
+      <FILENAME>utils.cpp</FILENAME>
+      <LINE>77</LINE>
+      <COLUMN>17</COLUMN>
+    </SFA>
+    <DEFECTCODE>26440</DEFECTCODE>
+    <DESCRIPTION>Function 'DomainError::getCode' can be declared 'noexcept' (f.6).</DESCRIPTION>
+    <FUNCTION>DomainError::getCode</FUNCTION>
+    <DECORATED>?getCode@DomainError@@QBEHXZ</DECORATED>
+    <FUNCLINE>77</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>E:\__Teme\Object-Oriented Programming (OOP)\Lab6-7_Nou\Lab6-7_Nou\</FILEPATH>
+      <FILENAME>utils.cpp</FILENAME>
+      <LINE>93</LINE>
+      <COLUMN>15</COLUMN>
+    </SFA>
+    <DEFECTCODE>26440</DEFECTCODE>
+    <DESCRIPTION>Function 'RepoError::getCode' can be declared 'noexcept' (f.6).</DESCRIPTION>
+    <FUNCTION>RepoError::getCode</FUNCTION>
+    <DECORATED>?getCode@RepoError@@QBEHXZ</DECORATED>
+    <FUNCLINE>93</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

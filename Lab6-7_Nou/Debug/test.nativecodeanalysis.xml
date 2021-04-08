@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>E:\__Teme\Object-Oriented Programming (OOP)\Lab6-7_Nou\Lab6-7_Nou\</FILEPATH>
+      <FILENAME>service.h</FILENAME>
+      <LINE>37</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26440</DEFECTCODE>
+    <DESCRIPTION>Function 'Service::Service' can be declared 'noexcept' (f.6).</DESCRIPTION>
+    <FUNCTION>Service::{ctor}</FUNCTION>
+    <DECORATED>??0Service@@QAE@AAVRepo@@AAVValidator@@@Z</DECORATED>
+    <FUNCLINE>37</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>E:\__Teme\Object-Oriented Programming (OOP)\Lab6-7_Nou\Lab6-7_Nou\</FILEPATH>
+      <FILENAME>DynamicArray.h</FILENAME>
+      <LINE>262</LINE>
+      <COLUMN>26</COLUMN>
+    </SFA>
+    <DEFECTCODE>26440</DEFECTCODE>
+    <DESCRIPTION>Function 'DynamicArray&lt;Oferta&gt;::end' can be declared 'noexcept' (f.6).</DESCRIPTION>
+    <FUNCTION>DynamicArray&lt;Oferta&gt;::end</FUNCTION>
+    <DECORATED>?end@?$DynamicArray@VOferta@@@@QAE?AV?$IteratorVector@VOferta@@@@XZ</DECORATED>
+    <FUNCLINE>262</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>E:\__Teme\Object-Oriented Programming (OOP)\Lab6-7_Nou\Lab6-7_Nou\</FILEPATH>
+      <FILENAME>DynamicArray.h</FILENAME>
+      <LINE>257</LINE>
+      <COLUMN>26</COLUMN>
+    </SFA>
+    <DEFECTCODE>26440</DEFECTCODE>
+    <DESCRIPTION>Function 'DynamicArray&lt;Oferta&gt;::begin' can be declared 'noexcept' (f.6).</DESCRIPTION>
+    <FUNCTION>DynamicArray&lt;Oferta&gt;::begin</FUNCTION>
+    <DECORATED>?begin@?$DynamicArray@VOferta@@@@QAE?AV?$IteratorVector@VOferta@@@@XZ</DECORATED>
+    <FUNCLINE>257</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>E:\__Teme\Object-Oriented Programming (OOP)\Lab6-7_Nou\Lab6-7_Nou\</FILEPATH>
+      <FILENAME>DynamicArray.h</FILENAME>
+      <LINE>250</LINE>
+      <COLUMN>2</COLUMN>
+    </SFA>
+    <DEFECTCODE>26432</DEFECTCODE>
+    <DESCRIPTION>If you define or delete any default operation in the type 'class DynamicArray&lt;class Oferta&gt;', define or delete them all (c.21).</DESCRIPTION>
+    <FUNCTION>DynamicArray&lt;Oferta&gt;::{dtor}</FUNCTION>
+    <DECORATED>??1?$DynamicArray@VOferta@@@@QAE@XZ</DECORATED>
+    <FUNCLINE>250</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>E:\__Teme\Object-Oriented Programming (OOP)\Lab6-7_Nou\Lab6-7_Nou\</FILEPATH>
+      <FILENAME>DynamicArray.h</FILENAME>
+      <LINE>236</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>26440</DEFECTCODE>
+    <DESCRIPTION>Function 'DynamicArray&lt;Oferta&gt;::at' can be declared 'noexcept' (f.6).</DESCRIPTION>
+    <FUNCTION>DynamicArray&lt;Oferta&gt;::at</FUNCTION>
+    <DECORATED>?at@?$DynamicArray@VOferta@@@@QBEAAVOferta@@H@Z</DECORATED>
+    <FUNCLINE>236</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>E:\__Teme\Object-Oriented Programming (OOP)\Lab6-7_Nou\Lab6-7_Nou\</FILEPATH>
+      <FILENAME>DynamicArray.h</FILENAME>
+      <LINE>238</LINE>
+      <COLUMN>2</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>DynamicArray&lt;Oferta&gt;::at</FUNCTION>
+    <DECORATED>?at@?$DynamicArray@VOferta@@@@QBEAAVOferta@@H@Z</DECORATED>
+    <FUNCLINE>236</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>E:\__Teme\Object-Oriented Programming (OOP)\Lab6-7_Nou\Lab6-7_Nou\</FILEPATH>
+      <FILENAME>DynamicArray.h</FILENAME>
+      <LINE>146</LINE>
+      <COLUMN>5</COLUMN>
+    </SFA>
+    <DEFECTCODE>26440</DEFECTCODE>
+    <DESCRIPTION>Function 'DynamicArray&lt;Oferta&gt;::size' can be declared 'noexcept' (f.6).</DESCRIPTION>
+    <FUNCTION>DynamicArray&lt;Oferta&gt;::size</FUNCTION>
+    <DECORATED>?size@?$DynamicArray@VOferta@@@@QBEHXZ</DECORATED>
+    <FUNCLINE>146</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>E:\__Teme\Object-Oriented Programming (OOP)\Lab6-7_Nou\Lab6-7_Nou\</FILEPATH>
+      <FILENAME>DynamicArray.h</FILENAME>
+      <LINE>122</LINE>
+      <COLUMN>22</COLUMN>
+    </SFA>
+    <DEFECTCODE>26409</DEFECTCODE>
+    <DESCRIPTION>Avoid calling new and delete explicitly, use std::make_unique&lt;T&gt; instead (r.11).</DESCRIPTION>
+    <FUNCTION>DynamicArray&lt;Oferta&gt;::=</FUNCTION>
+    <DECORATED>??4?$DynamicArray@VOferta@@@@QAEAAV0@ABV0@@Z</DECORATED>
+    <FUNCLINE>117</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>E:\__Teme\Object-Oriented Programming (OOP)\Lab6-7_Nou\Lab6-7_Nou\</FILEPATH>
+      <FILENAME>DynamicArray.h</FILENAME>
+      <LINE>122</LINE>
+      <COLUMN>22</COLUMN>
+    </SFA>
+    <DEFECTCODE>26400</DEFECTCODE>
+    <DESCRIPTION>Do not assign the result of an allocation or a function call with an owner&lt;T&gt; return value to a raw pointer, use owner&lt;T&gt; instead (i.11).</DESCRIPTION>
+    <FUNCTION>DynamicArray&lt;Oferta&gt;::=</FUNCTION>
+    <DECORATED>??4?$DynamicArray@VOferta@@@@QAEAAV0@ABV0@@Z</DECORATED>
+    <FUNCLINE>117</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>E:\__Teme\Object-Oriented Programming (OOP)\Lab6-7_Nou\Lab6-7_Nou\</FILEPATH>
+      <FILENAME>DynamicArray.h</FILENAME>
+      <LINE>122</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>26429</DEFECTCODE>
+    <DESCRIPTION>Symbol 'newElem' is never tested for nullness, it can be marked as not_null (f.23).</DESCRIPTION>
+    <FUNCTION>DynamicArray&lt;Oferta&gt;::=</FUNCTION>
+    <DECORATED>??4?$DynamicArray@VOferta@@@@QAEAAV0@ABV0@@Z</DECORATED>
+    <FUNCLINE>117</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>E:\__Teme\Object-Oriented Programming (OOP)\Lab6-7_Nou\Lab6-7_Nou\</FILEPATH>
+      <FILENAME>DynamicArray.h</FILENAME>
+      <LINE>96</LINE>
+      <COLUMN>23</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>DynamicArray&lt;Oferta&gt;::==</FUNCTION>
+    <DECORATED>??8?$DynamicArray@VOferta@@@@QBE_NABV0@@Z</DECORATED>
+    <FUNCLINE>89</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>E:\__Teme\Object-Oriented Programming (OOP)\Lab6-7_Nou\Lab6-7_Nou\</FILEPATH>
+      <FILENAME>DynamicArray.h</FILENAME>
+      <LINE>96</LINE>
+      <COLUMN>23</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>DynamicArray&lt;Oferta&gt;::==</FUNCTION>
+    <DECORATED>??8?$DynamicArray@VOferta@@@@QBE_NABV0@@Z</DECORATED>
+    <FUNCLINE>89</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>E:\__Teme\Object-Oriented Programming (OOP)\Lab6-7_Nou\Lab6-7_Nou\</FILEPATH>
+      <FILENAME>DynamicArray.h</FILENAME>
+      <LINE>68</LINE>
+      <COLUMN>15</COLUMN>
+    </SFA>
+    <DEFECTCODE>26409</DEFECTCODE>
+    <DESCRIPTION>Avoid calling new and delete explicitly, use std::make_unique&lt;T&gt; instead (r.11).</DESCRIPTION>
+    <FUNCTION>DynamicArray&lt;Oferta&gt;::{ctor}</FUNCTION>
+    <DECORATED>??0?$DynamicArray@VOferta@@@@QAE@ABV0@@Z</DECORATED>
+    <FUNCLINE>62</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>E:\__Teme\Object-Oriented Programming (OOP)\Lab6-7_Nou\Lab6-7_Nou\</FILEPATH>
+      <FILENAME>DynamicArray.h</FILENAME>
+      <LINE>44</LINE>
+      <COLUMN>15</COLUMN>
+    </SFA>
+    <DEFECTCODE>26409</DEFECTCODE>
+    <DESCRIPTION>Avoid calling new and delete explicitly, use std::make_unique&lt;T&gt; instead (r.11).</DESCRIPTION>
+    <FUNCTION>DynamicArray&lt;Oferta&gt;::{ctor}</FUNCTION>
+    <DECORATED>??0?$DynamicArray@VOferta@@@@QAE@XZ</DECORATED>
+    <FUNCLINE>40</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>E:\__Teme\Object-Oriented Programming (OOP)\Lab6-7_Nou\Lab6-7_Nou\</FILEPATH>
+      <FILENAME>DynamicArray.h</FILENAME>
+      <LINE>40</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26455</DEFECTCODE>
+    <DESCRIPTION>Default constructor may not throw. Declare it 'noexcept' (f.6).</DESCRIPTION>
+    <FUNCTION>DynamicArray&lt;Oferta&gt;::{ctor}</FUNCTION>
+    <DECORATED>??0?$DynamicArray@VOferta@@@@QAE@XZ</DECORATED>
+    <FUNCLINE>40</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>E:\__Teme\Object-Oriented Programming (OOP)\Lab6-7_Nou\Lab6-7_Nou\</FILEPATH>
+      <FILENAME>DynamicArray.h</FILENAME>
+      <LINE>295</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26440</DEFECTCODE>
+    <DESCRIPTION>Function 'IteratorVector&lt;Oferta&gt;::next' can be declared 'noexcept' (f.6).</DESCRIPTION>
+    <FUNCTION>IteratorVector&lt;Oferta&gt;::next</FUNCTION>
+    <DECORATED>?next@?$IteratorVector@VOferta@@@@QAEXXZ</DECORATED>
+    <FUNCLINE>295</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>E:\__Teme\Object-Oriented Programming (OOP)\Lab6-7_Nou\Lab6-7_Nou\</FILEPATH>
+      <FILENAME>DynamicArray.h</FILENAME>
+      <LINE>290</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>26440</DEFECTCODE>
+    <DESCRIPTION>Function 'IteratorVector&lt;Oferta&gt;::element' can be declared 'noexcept' (f.6).</DESCRIPTION>
+    <FUNCTION>IteratorVector&lt;Oferta&gt;::element</FUNCTION>
+    <DECORATED>?element@?$IteratorVector@VOferta@@@@QBEAAVOferta@@XZ</DECORATED>
+    <FUNCLINE>290</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>E:\__Teme\Object-Oriented Programming (OOP)\Lab6-7_Nou\Lab6-7_Nou\</FILEPATH>
+      <FILENAME>DynamicArray.h</FILENAME>
+      <LINE>292</LINE>
+      <COLUMN>2</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>IteratorVector&lt;Oferta&gt;::element</FUNCTION>
+    <DECORATED>?element@?$IteratorVector@VOferta@@@@QBEAAVOferta@@XZ</DECORATED>
+    <FUNCLINE>290</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>E:\__Teme\Object-Oriented Programming (OOP)\Lab6-7_Nou\Lab6-7_Nou\</FILEPATH>
+      <FILENAME>DynamicArray.h</FILENAME>
+      <LINE>17</LINE>
+      <COLUMN>22</COLUMN>
+    </SFA>
+    <DEFECTCODE>26409</DEFECTCODE>
+    <DESCRIPTION>Avoid calling new and delete explicitly, use std::make_unique&lt;T&gt; instead (r.11).</DESCRIPTION>
+    <FUNCTION>DynamicArray&lt;Oferta&gt;::redimensionare</FUNCTION>
+    <DECORATED>?redimensionare@?$DynamicArray@VOferta@@@@AAEXXZ</DECORATED>
+    <FUNCLINE>15</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>E:\__Teme\Object-Oriented Programming (OOP)\Lab6-7_Nou\Lab6-7_Nou\</FILEPATH>
+      <FILENAME>DynamicArray.h</FILENAME>
+      <LINE>17</LINE>
+      <COLUMN>22</COLUMN>
+    </SFA>
+    <DEFECTCODE>26400</DEFECTCODE>
+    <DESCRIPTION>Do not assign the result of an allocation or a function call with an owner&lt;T&gt; return value to a raw pointer, use owner&lt;T&gt; instead (i.11).</DESCRIPTION>
+    <FUNCTION>DynamicArray&lt;Oferta&gt;::redimensionare</FUNCTION>
+    <DECORATED>?redimensionare@?$DynamicArray@VOferta@@@@AAEXXZ</DECORATED>
+    <FUNCLINE>15</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>E:\__Teme\Object-Oriented Programming (OOP)\Lab6-7_Nou\Lab6-7_Nou\</FILEPATH>
+      <FILENAME>DynamicArray.h</FILENAME>
+      <LINE>17</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>26429</DEFECTCODE>
+    <DESCRIPTION>Symbol 'newElem' is never tested for nullness, it can be marked as not_null (f.23).</DESCRIPTION>
+    <FUNCTION>DynamicArray&lt;Oferta&gt;::redimensionare</FUNCTION>
+    <DECORATED>?redimensionare@?$DynamicArray@VOferta@@@@AAEXXZ</DECORATED>
+    <FUNCLINE>15</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

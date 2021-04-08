@@ -1,0 +1,35 @@
+﻿  Lab6-7.cpp
+  Lab6-7_Nou.vcxproj -> E:\__Teme\Object-Oriented Programming (OOP)\Lab6-7_Nou\Debug\Lab6-7_Nou.exe
+E:\__Teme\Object-Oriented Programming (OOP)\Lab6-7_Nou\Lab6-7_Nou\domain.cpp(3): warning C26455: Default constructor may not throw. Declare it 'noexcept' (f.6).
+E:\__Teme\Object-Oriented Programming (OOP)\Lab6-7_Nou\Lab6-7_Nou\domain.cpp(19): warning C26432: If you define or delete any default operation in the type 'class Oferta', define or delete them all (c.21).
+E:\__Teme\Object-Oriented Programming (OOP)\Lab6-7_Nou\Lab6-7_Nou\domain.cpp(27): warning C26440: Function 'Oferta::operator==' can be declared 'noexcept' (f.6).
+E:\__Teme\Object-Oriented Programming (OOP)\Lab6-7_Nou\Lab6-7_Nou\domain.cpp(32): warning C26440: Function 'Oferta::getPret' can be declared 'noexcept' (f.6).
+E:\__Teme\Object-Oriented Programming (OOP)\Lab6-7_Nou\Lab6-7_Nou\domain.cpp(67): warning C26440: Function 'Oferta::setPret' can be declared 'noexcept' (f.6).
+E:\__Teme\Object-Oriented Programming (OOP)\Lab6-7_Nou\Lab6-7_Nou\service.h(37): warning C26440: Function 'Service::Service' can be declared 'noexcept' (f.6).
+E:\__Teme\Object-Oriented Programming (OOP)\Lab6-7_Nou\Lab6-7_Nou\UI.h(74): warning C26440: Function 'Console::Console' can be declared 'noexcept' (f.6).
+E:\__Teme\Object-Oriented Programming (OOP)\Lab6-7_Nou\Lab6-7_Nou\DynamicArray.h(250): warning C26432: If you define or delete any default operation in the type 'class DynamicArray<class Oferta>', define or delete them all (c.21).
+E:\__Teme\Object-Oriented Programming (OOP)\Lab6-7_Nou\Lab6-7_Nou\repo.cpp(3): warning C26455: Default constructor may not throw. Declare it 'noexcept' (f.6).
+E:\__Teme\Object-Oriented Programming (OOP)\Lab6-7_Nou\Lab6-7_Nou\repo.cpp(8): warning C26440: Function 'Repo::getContinut' can be declared 'noexcept' (f.6).
+E:\__Teme\Object-Oriented Programming (OOP)\Lab6-7_Nou\Lab6-7_Nou\repo.cpp(94): warning C26440: Function 'Repo::getContinutRef' can be declared 'noexcept' (f.6).
+E:\__Teme\Object-Oriented Programming (OOP)\Lab6-7_Nou\Lab6-7_Nou\DynamicArray.h(236): warning C26440: Function 'DynamicArray<Oferta>::at' can be declared 'noexcept' (f.6).
+E:\__Teme\Object-Oriented Programming (OOP)\Lab6-7_Nou\Lab6-7_Nou\DynamicArray.h(238): warning C26481: Don't use pointer arithmetic. Use span instead (bounds.1).
+E:\__Teme\Object-Oriented Programming (OOP)\Lab6-7_Nou\Lab6-7_Nou\DynamicArray.h(146): warning C26440: Function 'DynamicArray<Oferta>::size' can be declared 'noexcept' (f.6).
+E:\__Teme\Object-Oriented Programming (OOP)\Lab6-7_Nou\Lab6-7_Nou\DynamicArray.h(122): warning C26409: Avoid calling new and delete explicitly, use std::make_unique<T> instead (r.11).
+E:\__Teme\Object-Oriented Programming (OOP)\Lab6-7_Nou\Lab6-7_Nou\DynamicArray.h(122): warning C26400: Do not assign the result of an allocation or a function call with an owner<T> return value to a raw pointer, use owner<T> instead (i.11).
+E:\__Teme\Object-Oriented Programming (OOP)\Lab6-7_Nou\Lab6-7_Nou\DynamicArray.h(122): warning C26429: Symbol 'newElem' is never tested for nullness, it can be marked as not_null (f.23).
+E:\__Teme\Object-Oriented Programming (OOP)\Lab6-7_Nou\Lab6-7_Nou\DynamicArray.h(68): warning C26409: Avoid calling new and delete explicitly, use std::make_unique<T> instead (r.11).
+E:\__Teme\Object-Oriented Programming (OOP)\Lab6-7_Nou\Lab6-7_Nou\DynamicArray.h(44): warning C26409: Avoid calling new and delete explicitly, use std::make_unique<T> instead (r.11).
+E:\__Teme\Object-Oriented Programming (OOP)\Lab6-7_Nou\Lab6-7_Nou\DynamicArray.h(40): warning C26455: Default constructor may not throw. Declare it 'noexcept' (f.6).
+E:\__Teme\Object-Oriented Programming (OOP)\Lab6-7_Nou\Lab6-7_Nou\DynamicArray.h(17): warning C26409: Avoid calling new and delete explicitly, use std::make_unique<T> instead (r.11).
+E:\__Teme\Object-Oriented Programming (OOP)\Lab6-7_Nou\Lab6-7_Nou\DynamicArray.h(17): warning C26400: Do not assign the result of an allocation or a function call with an owner<T> return value to a raw pointer, use owner<T> instead (i.11).
+E:\__Teme\Object-Oriented Programming (OOP)\Lab6-7_Nou\Lab6-7_Nou\DynamicArray.h(17): warning C26429: Symbol 'newElem' is never tested for nullness, it can be marked as not_null (f.23).
+E:\__Teme\Object-Oriented Programming (OOP)\Lab6-7_Nou\Lab6-7_Nou\DynamicArray.h(262): warning C26440: Function 'DynamicArray<Oferta>::end' can be declared 'noexcept' (f.6).
+E:\__Teme\Object-Oriented Programming (OOP)\Lab6-7_Nou\Lab6-7_Nou\DynamicArray.h(257): warning C26440: Function 'DynamicArray<Oferta>::begin' can be declared 'noexcept' (f.6).
+E:\__Teme\Object-Oriented Programming (OOP)\Lab6-7_Nou\Lab6-7_Nou\DynamicArray.h(96): warning C26481: Don't use pointer arithmetic. Use span instead (bounds.1).
+E:\__Teme\Object-Oriented Programming (OOP)\Lab6-7_Nou\Lab6-7_Nou\DynamicArray.h(295): warning C26440: Function 'IteratorVector<Oferta>::next' can be declared 'noexcept' (f.6).
+E:\__Teme\Object-Oriented Programming (OOP)\Lab6-7_Nou\Lab6-7_Nou\DynamicArray.h(290): warning C26440: Function 'IteratorVector<Oferta>::element' can be declared 'noexcept' (f.6).
+E:\__Teme\Object-Oriented Programming (OOP)\Lab6-7_Nou\Lab6-7_Nou\DynamicArray.h(292): warning C26481: Don't use pointer arithmetic. Use span instead (bounds.1).
+E:\__Teme\Object-Oriented Programming (OOP)\Lab6-7_Nou\Lab6-7_Nou\utils.cpp(3): warning C26440: Function 'cmpString' can be declared 'noexcept' (f.6).
+E:\__Teme\Object-Oriented Programming (OOP)\Lab6-7_Nou\Lab6-7_Nou\utils.cpp(26): warning C26440: Function 'cmpInt' can be declared 'noexcept' (f.6).
+E:\__Teme\Object-Oriented Programming (OOP)\Lab6-7_Nou\Lab6-7_Nou\utils.cpp(77): warning C26440: Function 'DomainError::getCode' can be declared 'noexcept' (f.6).
+E:\__Teme\Object-Oriented Programming (OOP)\Lab6-7_Nou\Lab6-7_Nou\utils.cpp(93): warning C26440: Function 'RepoError::getCode' can be declared 'noexcept' (f.6).

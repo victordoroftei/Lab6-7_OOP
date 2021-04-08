@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>E:\__Teme\Object-Oriented Programming (OOP)\Lab6-7_Nou\Lab6-7_Nou\</FILEPATH>
+      <FILENAME>service.h</FILENAME>
+      <LINE>37</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26440</DEFECTCODE>
+    <DESCRIPTION>Function 'Service::Service' can be declared 'noexcept' (f.6).</DESCRIPTION>
+    <FUNCTION>Service::{ctor}</FUNCTION>
+    <DECORATED>??0Service@@QAE@AAVRepo@@AAVValidator@@@Z</DECORATED>
+    <FUNCLINE>37</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>E:\__Teme\Object-Oriented Programming (OOP)\Lab6-7_Nou\Lab6-7_Nou\</FILEPATH>
+      <FILENAME>UI.h</FILENAME>
+      <LINE>74</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26440</DEFECTCODE>
+    <DESCRIPTION>Function 'Console::Console' can be declared 'noexcept' (f.6).</DESCRIPTION>
+    <FUNCTION>Console::{ctor}</FUNCTION>
+    <DECORATED>??0Console@@QAE@AAVService@@AAVRepo@@AAVValidator@@@Z</DECORATED>
+    <FUNCLINE>74</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>E:\__Teme\Object-Oriented Programming (OOP)\Lab6-7_Nou\Lab6-7_Nou\</FILEPATH>
+      <FILENAME>DynamicArray.h</FILENAME>
+      <LINE>250</LINE>
+      <COLUMN>2</COLUMN>
+    </SFA>
+    <DEFECTCODE>26432</DEFECTCODE>
+    <DESCRIPTION>If you define or delete any default operation in the type 'class DynamicArray&lt;class Oferta&gt;', define or delete them all (c.21).</DESCRIPTION>
+    <FUNCTION>DynamicArray&lt;Oferta&gt;::{dtor}</FUNCTION>
+    <DECORATED>??1?$DynamicArray@VOferta@@@@QAE@XZ</DECORATED>
+    <FUNCLINE>250</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>E:\__Teme\Object-Oriented Programming (OOP)\Lab6-7_Nou\Lab6-7_Nou\</FILEPATH>
+      <FILENAME>DynamicArray.h</FILENAME>
+      <LINE>236</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>26440</DEFECTCODE>
+    <DESCRIPTION>Function 'DynamicArray&lt;Oferta&gt;::at' can be declared 'noexcept' (f.6).</DESCRIPTION>
+    <FUNCTION>DynamicArray&lt;Oferta&gt;::at</FUNCTION>
+    <DECORATED>?at@?$DynamicArray@VOferta@@@@QBEAAVOferta@@H@Z</DECORATED>
+    <FUNCLINE>236</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>E:\__Teme\Object-Oriented Programming (OOP)\Lab6-7_Nou\Lab6-7_Nou\</FILEPATH>
+      <FILENAME>DynamicArray.h</FILENAME>
+      <LINE>238</LINE>
+      <COLUMN>2</COLUMN>
+    </SFA>
+    <DEFECTCODE>26481</DEFECTCODE>
+    <DESCRIPTION>Don't use pointer arithmetic. Use span instead (bounds.1).</DESCRIPTION>
+    <FUNCTION>DynamicArray&lt;Oferta&gt;::at</FUNCTION>
+    <DECORATED>?at@?$DynamicArray@VOferta@@@@QBEAAVOferta@@H@Z</DECORATED>
+    <FUNCLINE>236</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>E:\__Teme\Object-Oriented Programming (OOP)\Lab6-7_Nou\Lab6-7_Nou\</FILEPATH>
+      <FILENAME>DynamicArray.h</FILENAME>
+      <LINE>146</LINE>
+      <COLUMN>5</COLUMN>
+    </SFA>
+    <DEFECTCODE>26440</DEFECTCODE>
+    <DESCRIPTION>Function 'DynamicArray&lt;Oferta&gt;::size' can be declared 'noexcept' (f.6).</DESCRIPTION>
+    <FUNCTION>DynamicArray&lt;Oferta&gt;::size</FUNCTION>
+    <DECORATED>?size@?$DynamicArray@VOferta@@@@QBEHXZ</DECORATED>
+    <FUNCLINE>146</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>E:\__Teme\Object-Oriented Programming (OOP)\Lab6-7_Nou\Lab6-7_Nou\</FILEPATH>
+      <FILENAME>DynamicArray.h</FILENAME>
+      <LINE>68</LINE>
+      <COLUMN>15</COLUMN>
+    </SFA>
+    <DEFECTCODE>26409</DEFECTCODE>
+    <DESCRIPTION>Avoid calling new and delete explicitly, use std::make_unique&lt;T&gt; instead (r.11).</DESCRIPTION>
+    <FUNCTION>DynamicArray&lt;Oferta&gt;::{ctor}</FUNCTION>
+    <DECORATED>??0?$DynamicArray@VOferta@@@@QAE@ABV0@@Z</DECORATED>
+    <FUNCLINE>62</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>
